@@ -33,7 +33,7 @@ $testArray = get_pages(array(
 ));
 
 if ($parentID || $testArray ) { ?>
-?>
+
 
     <div class="page-links">
       <h2 class="page-links__title"><a href="<?php echo get_permalink($parentID)?>"><?php echo get_the_title($parentID) ?></a></h2>
