@@ -19,7 +19,7 @@ sql
 
 
 # Uploads
-/wp-content/uploads
+app/public/wp-content/uploads/
 
 # Log files
 *.log
@@ -33,7 +33,8 @@ conf
 #
 # Note: If you wish to whitelist plugins,
 # uncomment the next line
-/wp-content/plugins/
+
+app/public/wp-content/plugins/
 # All themes
 #
 # Note: If you wish to whitelist themes,
