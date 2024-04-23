@@ -19,6 +19,7 @@ sql
 
 
 # Uploads
+
 app/public/wp-content/uploads/
 
 # Log files
@@ -36,6 +37,7 @@ conf
 app/public/wp-content/plugins/
 
 .gitignore
+
 
 # All themes
 #
